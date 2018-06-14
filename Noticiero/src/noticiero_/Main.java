@@ -10,7 +10,8 @@ public class Main
         // TODO code application logic here
         Principal obj = new Principal();
         obj.setVisible(true);
-      // obj.setUndecorated(true);
+        //obj.eliminarTabla();
+
   //    Principal.setWindowDecorationStyle(JRootPane.NONE); getRootPane().setWindowDecorationStyle(JRootPane.NONE);
 
     }
